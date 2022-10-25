@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shiltbrun.github.io/Cours-HEG/sitemap.xml

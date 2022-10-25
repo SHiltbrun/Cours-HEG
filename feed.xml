@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gestion contenu Hiltbrunner</title>
+    <link href="https://shiltbrun.github.io/Cours-HEG/feed.xml" rel="self" />
+    <link href="https://shiltbrun.github.io/Cours-HEG" />
+    <updated>2022-10-25T10:53:53+02:00</updated>
+    <author>
+        <name>Hiltbrunner Sébastien</name>
+    </author>
+    <id>https://shiltbrun.github.io/Cours-HEG</id>
+
+    <entry>
+        <title>Pirate</title>
+        <author>
+            <name>Hiltbrunner Sébastien</name>
+        </author>
+        <link href="https://shiltbrun.github.io/Cours-HEG/pirate.html"/>
+        <id>https://shiltbrun.github.io/Cours-HEG/pirate.html</id>
+
+        <updated>2022-10-25T10:49:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ici vous pouvez découvrir le capitaine du Falling Star au travers plusieurs clichés pris lors de ses aventures. Il s'agissait d'un Encien amiral reconvertit à la piraterie après avoir été dégouté de faire de simple livrtaison de rhum (mais nonloin dégouter de la boisson en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.08.27-17.22.31.71.png" data-size="1920x1080"><img loading="lazy" src="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.08.27-17.22.31.71-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.08.27-20.15.33.69.png" data-size="1920x1080"><img loading="lazy" src="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.08.27-20.15.33.69-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.09.01-18.57.50.25.png" data-size="1920x1080"><img loading="lazy" src="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea-of-Thieves-Screenshot-2022.09.01-18.57.50.25-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea_of_Thieves_Screenshot_2022.03.11_-_16.53.19.64.png" data-size="1920x1080"><img loading="lazy" src="https://shiltbrun.github.io/Cours-HEG/media/posts/3/gallery/Sea_of_Thieves_Screenshot_2022.03.11_-_16.53.19.64-thumbnail.png" alt="" width="720" height="405"></a></figure>
+</div></div>
+<p>ici vous pouvez découvrir le capitaine du Falling Star au travers plusieurs clichés pris lors de ses aventures. </p>
+<p>Il s'agissait d'un Encien amiral reconvertit à la piraterie après avoir été dégouté de faire de simple livrtaison de rhum (mais nonloin dégouter de la boisson en elle-même)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Le bateau</title>
+        <author>
+            <name>Hiltbrunner Sébastien</name>
+        </author>
+        <link href="https://shiltbrun.github.io/Cours-HEG/test-2.html"/>
+        <id>https://shiltbrun.github.io/Cours-HEG/test-2.html</id>
+
+        <updated>2022-10-25T10:46:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ceci est un test car j'aime bien faire des choses. Malheurusement je n'ai pas grand chose à écrire alors je meuble avec des images venant de sea of thieves. Je vous présente le Falling Stars, fier Gallion naviguant sur les mers étranges de Sea of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ceci est un test car j'aime bien faire des choses. Malheurusement  je n'ai pas grand chose à écrire alors je meuble avec des images venant de sea of thieves.</p>
+<p>Je  vous présente le Falling Stars, fier Gallion naviguant sur les mers étranges de Sea of Thieves<figure class="post__image"><img loading="lazy"  src="https://shiltbrun.github.io/Cours-HEG/media/posts/2/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94.png" sizes="100vw" srcset="https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-xs.png 300w ,https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-sm.png 480w ,https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-md.png 768w ,https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-lg.png 1024w ,https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-xl.png 1360w ,https://shiltbrun.github.io/Cours-HEG/media/posts/2/responsive/Sea-of-Thieves-Screenshot-2022.09.15-22.49.12.94-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aventure</title>
+        <author>
+            <name>Hiltbrunner Sébastien</name>
+        </author>
+        <link href="https://shiltbrun.github.io/Cours-HEG/test.html"/>
+        <id>https://shiltbrun.github.io/Cours-HEG/test.html</id>
+
+        <updated>2022-10-25T10:53:53+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://shiltbrun.github.io/Cours-HEG/media/posts/1/SPOILER_unknown.png" sizes="100vw" srcset="https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-xs.png 300w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-sm.png 480w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-md.png 768w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-lg.png 1024w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-xl.png 1360w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/SPOILER_unknown-2xl.png 1600w"  alt="test" width="1397" height="822"></figure><figure class="post__image"><img loading="lazy"  src="https://shiltbrun.github.io/Cours-HEG/media/posts/1/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66.png" sizes="100vw" srcset="https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-xs.png 300w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-sm.png 480w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-md.png 768w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-lg.png 1024w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-xl.png 1360w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-23.09.30.66-2xl.png 1600w"  alt="" width="1920" height="1080"></figure><figure class="post__image"><img loading="lazy"  src="https://shiltbrun.github.io/Cours-HEG/media/posts/1/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01.png" sizes="100vw" srcset="https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-xs.png 300w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-sm.png 480w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-md.png 768w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-lg.png 1024w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-xl.png 1360w ,https://shiltbrun.github.io/Cours-HEG/media/posts/1/responsive/Sea-of-Thieves-Screenshot-2022.09.14-21.38.27.01-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
